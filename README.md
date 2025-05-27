@@ -13,7 +13,7 @@ I'm a Linux enthusiast and a passionate coder who loves exploring the depths of 
 
 - **Languages**: Bash, Python, Java, Kotlin
 - **Tools**: Git, Vim, Docker
-- **Platforms**: Linux (Arch, Ubuntu), Android
+- **Platforms**: Linux (Arch), Android
 
 ## 📈 GitHub Stats
 
