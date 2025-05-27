@@ -1,19 +1,18 @@
+# 👋 Hey there
 
-# 👋 Hello
+I'm a Linux user and coder who enjoys tinkering with terminals and building small tools that solve everyday problems.
 
-I'm a Linux enthusiast and a passionate coder who loves exploring the depths of the terminal and crafting solutions that make life a bit easier (and cooler).
+## 🧠 A Bit About Me
 
-## 🧠 About Me
-
-- 🐧 **Linux Lover**: I enjoy customizing and optimizing Linux environments to suit my workflow.
-- 💻 **Coding Aficionado**: From scripting to building applications, I relish the process of bringing ideas to life through code.
-- 🎮 **Tech Explorer**: Always on the lookout for new technologies and tools to experiment with and learn from.
+- 🐧 I like exploring and customizing Linux setups to better fit how I work.
+- 💻 I spend time writing scripts, coding small apps, and learning how different pieces of tech fit together.
+- 🎮 I enjoy trying out new tools, frameworks, and workflows to keep things interesting and pick up new skills along the way.
 
 ## 🛠️ Skills & Tools
 
-- **Languages**: Bash, Python, Java, Kotlin
-- **Tools**: Git, Vim, Docker
-- **Platforms**: Linux (Arch), Android
+- **Languages**: Bash, Python, Java, Kotlin  
+- **Tools**: Git, Vim, Docker  
+- **Platforms**: Linux (mostly Arch), Android  
 
 ## 📈 GitHub Stats
 
@@ -23,12 +22,12 @@ I'm a Linux enthusiast and a passionate coder who loves exploring the depths of 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derpx06&layout=compact&theme=radical)
 
-## 📫 Let's Connect
+## 📫 Reach Out
 
-Feel free to reach out or explore my work:
+If you're curious about my work or just want to say hi:
 
-- 🌐 [GitHub](https://github.com/derpx06)
-- 📧 Email: manaskhairnar1511@gmail.com
+- 🌐 [GitHub](https://github.com/derpx06)  
+- 📧 manaskhairnar1511@gmail.com  
 
 <!---
 derpx06/derpx06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
