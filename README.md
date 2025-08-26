@@ -18,10 +18,6 @@ I'm a Linux user and coder who enjoys tinkering with terminals and building smal
 
 ![derpx06's GitHub stats](https://github-readme-stats.vercel.app/api?username=derpx06&show_icons=true&theme=radical)
 
-## 📊 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derpx06&layout=compact&theme=radical)
-
 ## 📫 Reach Out
 
 If you're curious about my work or just want to say hi:
