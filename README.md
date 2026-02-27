@@ -18,9 +18,6 @@ I'm a Linux user and coder who enjoys tinkering with terminals and building smal
 
 ![Stats](https://gh-readme-stats.vercel.app/api?username=derpx06&show_icons=true)
 
-![Top Langs](https://gh-readme-stats.vercel.app/api/top-langs/?username=derpx06&layout=compact)
-
-![Streak](https://streak-stats.demolab.com?user=derpx06)
 
 ## 📫 Reach Out
 
