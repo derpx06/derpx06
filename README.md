@@ -14,6 +14,14 @@ I'm a Linux user and coder who enjoys tinkering with terminals and building smal
 - **Tools**: Git, Vim, Docker,Kubernetes
 - **Platforms**: Linux (mostly Arch), Android  
 
+# 📊 GitHub Stats
+
+![Stats](https://gh-readme-stats.vercel.app/api?username=derpx06&show_icons=true)
+
+![Top Langs](https://gh-readme-stats.vercel.app/api/top-langs/?username=derpx06&layout=compact)
+
+![Streak](https://streak-stats.demolab.com?user=derpx06)
+
 ## 📫 Reach Out
 
 If you're curious about my work or just want to say hi:
