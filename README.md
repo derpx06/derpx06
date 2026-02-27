@@ -10,13 +10,9 @@ I'm a Linux user and coder who enjoys tinkering with terminals and building smal
 
 ## 🛠️ Skills & Tools
 
-- **Languages**: Bash, Python, Java, Kotlin  
-- **Tools**: Git, Vim, Docker  
+- **Languages**: Bash, Python, Java, Kotlin,Vala,Rust,Javascript
+- **Tools**: Git, Vim, Docker,Kubernetes
 - **Platforms**: Linux (mostly Arch), Android  
-
-## 📈 GitHub Stats
-
-![derpx06's GitHub stats](https://github-readme-stats.vercel.app/api?username=derpx06&show_icons=true&theme=radical)
 
 ## 📫 Reach Out
 
